@@ -1,0 +1,36 @@
+[
+    {
+      "id": "1",
+      "title": "Japão novembro 2024",
+      "description": "O melhor dos 47 years.",
+      "image": "../images/album1.jpg"
+    },
+
+    {
+      "id": "2",
+      "title": "Amesterdão fevereiro 2025",
+      "description": "Homenagem á mãe de Leonor.",
+      "image": "../images/album5.jpg"
+    },
+
+    {
+      "id": "3",
+      "title": "Lisboa julho 2025",
+      "description": "Album a solo com a minha guitarra.",
+      "image": "../images/album3.jpg"
+    },
+
+    {
+      "id": "4",
+      "title": "Londres setembro 2025",
+      "description": "15 minutos de música a solo.",
+      "image": "../images/album4.jpg"
+    },
+
+    {
+      "id": "5",
+      "title": "México novembro 2025",
+      "description": "Viagem ao espaço.",
+      "image": "../images/album2.jpg"
+    }
+]
