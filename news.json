@@ -1,36 +1,18 @@
-[
-    {
-      "id": "1",
-      "title": "Japão novembro 2024",
-      "description": "O melhor dos 47 years.",
-      "image": "../images/album1.jpg"
-    },
-
-    {
-      "id": "2",
-      "title": "Amesterdão fevereiro 2025",
-      "description": "Homenagem á mãe de Leonor.",
-      "image": "../images/album5.jpg"
-    },
-
-    {
-      "id": "3",
-      "title": "Lisboa julho 2025",
-      "description": "Album a solo com a minha guitarra.",
-      "image": "../images/album3.jpg"
-    },
-
-    {
-      "id": "4",
-      "title": "Londres setembro 2025",
-      "description": "15 minutos de música a solo.",
-      "image": "../images/album4.jpg"
-    },
-
-    {
-      "id": "5",
-      "title": "México novembro 2025",
-      "description": "Viagem ao espaço.",
-      "image": "../images/album2.jpg"
-    }
-]
+{
+  "cursos": [
+    { "id": 1, "titulo": "Entendendo o ES6", "url": "https://www.codeprestige.com.br/cursos/es6" },
+    { "id": 2, "titulo": "Produtividade Máxima com o VS Code", "url": "https://www.udemy.com/truques-vscode/" },
+    { "id": 3, "titulo": "Entendendo o ES7/ES8", "url": "https://www.codeprestige.com.br/cursos/es7-8" },
+    { "id": 4, "titulo": "React 16 Definitivo", "url": "https://www.udemy.com/react-16/" }
+  ],
+  "alunos": [
+    { "id": 1, "nome": "Marcela da Silva", "curso": 1 },
+    { "id": 2, "nome": "José Luiz Felipe", "curso": 2 },
+    { "id": 3, "nome": "Paulo Rogério", "curso": 3 },
+    { "id": 4, "nome": "Felipe da Cunha", "curso": 1 },
+    { "id": 5, "nome": "Luiza Cardoso Pereira", "curso": 1 }
+  ],
+  "empresa": {
+    "nome": "Code Prestige"
+  }
+}
