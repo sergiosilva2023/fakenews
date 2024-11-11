@@ -2,37 +2,42 @@
   "titles": [
     {
   "id": 1,
-  "title": "Live Concert", 
+  "title": "Japão 2024, grande concerto em",
   "country": "Japão",
   "city": "Tóquio",
+  "description": "Concerto live, cerca de 120 mil pessoas para assistir.",
   "year": 1
 },
 {
   "id": 2,
-  "title": "Live Concert",
+  "title": "Paises Baixos, live nunca visto em",
   "country": "Paises Baixos",
   "city": "Amesterdão",
+  "description": "Concerto live, cerca de 120 mil pessoas para assistir.",
   "year": 2
 },
 {
   "id": 3,
-  "title": "Live Concert",
+  "title": "O melhor da nossa banda, em",
   "country": "Portugal",
-  "city": "Lisbon",
+  "city": "Lisboa",
+  "description": "Concerto live, cerca de 90 mil pessoas para assistir.",
   "year": 2
 },
 {
   "id": 4,
-  "title": "Live Concert",
+  "title": "Esperamos por si em",
   "country": "Inglaterra",
   "city": "Londres",
+  "description": "Concerto live, cerca de 50 mil pessoas para assistir.",
   "year": 2
 },
 {
   "id": 5,
-  "title": "Live Concert",
+  "title": "Estaremos no fim da tourné em",
   "country": "México",
   "city": "Capital do México",
+  "description": "Concerto live, cerca de 180 mil pessoas para assistir.",
   "year": 2
 }
   ],
