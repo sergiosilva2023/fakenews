@@ -6,6 +6,7 @@
   "country": "Japão",
   "city": "Tóquio",
   "description": "Concerto live, cerca de 100 mil pessoas para assistir.",
+  "image": "../src/images/japao.jpg",
   "year": 1
 },
 {
@@ -14,6 +15,7 @@
   "country": "Paises Baixos",
   "city": "Amesterdão",
   "description": "Concerto live, cerca de 120 mil pessoas para assistir.",
+  "image": "../src/images/amesterdao.jpg",
   "year": 2
 },
 {
@@ -22,6 +24,7 @@
   "country": "Portugal",
   "city": "Lisboa",
   "description": "Concerto live, cerca de 90 mil pessoas para assistir.",
+  "image": "../src/images/lisboa.jpg",
   "year": 2
 },
 {
@@ -30,6 +33,7 @@
   "country": "Inglaterra",
   "city": "Londres",
   "description": "Concerto live, cerca de 50 mil pessoas para assistir.",
+  "image": "../src/images/londres.jpg",
   "year": 2
 },
 {
@@ -38,6 +42,7 @@
   "country": "México",
   "city": "Capital do México",
   "description": "Concerto live, cerca de 180 mil pessoas para assistir.",
+  "image": "../src/images/mexico.jpg",
   "year": 2
 }
   ],
