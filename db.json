@@ -6,7 +6,7 @@
   "country": "Japão",
   "city": "Tóquio",
   "description": "Concerto live, cerca de 100 mil pessoas para assistir.",
-  "image": "./src/images/japao.jpg",
+  "image": "images/japao.jpg",
   "year": 1
 },
 {
